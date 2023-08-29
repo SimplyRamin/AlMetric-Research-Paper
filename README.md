@@ -40,23 +40,14 @@
       <ul>
         <li><a href="#overview">Overview</a></li>
         <li><a href="#methodology">Methodology</a></li>
-        <li><a href="#data-collection">Data Collection</a></li>
-        <li><a href="#data-preprocessing-and-analysis">Data Preprocessing and Analysis</a></li>
-        <li><a href="#modeling">Modeling</a></li>
-        <li><a href="#notebooks">Notebooks</a></li>
+        <li><a href="#exploratory-data-analysis">Exploratory Data Analysis</a></li>
+        <li><a href="#key-insights">Key Insights</a></li>
+        <li><a href="#participating-universities">Participating Universities</a></li>
+        <li><a href="#data-sources">Data Sources</a></li>
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
-    <li>
-      <a href="#project-structure">Project Structure</a>
-    </li>
-    <li><a href="#usage">Usage</a>
-      <ul>
-        <li>
-          <a href="#consideration">Consideration</a>
-        </li>
-      </ul>
-    </li>
+    <li><a href="#usage">Usage</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
@@ -138,6 +129,8 @@ git clone https://github.com/SimplyRamin/AlMetric-Research-Paper.git
 ```
 
 - Open the notebook you want to check.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- CONTRIBUTING -->
 ## Contributing
